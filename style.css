@@ -61,3 +61,8 @@ p {
      margin-inline-end: 0px;
      font-weight: 600;
  }
+ .li lanche-descrição {
+     display: list-item;
+     text-align: -webkit-match-parent;
+     color:#cacd07;
+ }
